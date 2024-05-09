@@ -1,0 +1,135 @@
+[
+  {
+  "_id": {
+    "$oid": "66351ff5228bf117628acb71"
+  },
+  "_nombre": "Pepe",
+  "_apellido": "Juan",
+  "_correo": "pepe@its.com",
+  "_contraseña": "$2b$10$yjq92qc/yr9QK5wzsPeJGuszRogIyB52xc4Lqi1yFHXxA3gTxyZV2",
+  "_imagen": "aslkdmaskdm",
+  "_telefono": "1234567890",
+  "_fechaNacimiento": {
+    "$date": "2000-01-01T06:00:00.000Z"
+  },
+  "_animales": [],
+  "_publicaciones": [],
+  "_role": "USER",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66353c34b40d9950b10f9129"
+  },
+  "_nombre": "Javier ",
+  "_apellido": "Laurian ",
+  "_correo": "armandolaurian74@gmail.com",
+  "_telefono": "3322108261",
+  "_contraseña": "$2b$10$l59QgD0kn7ihzhmWBiqUbOSjcdkwhlS/7hIjRlQ2dGTD.c0zvMcZW",
+  "_imagen": "aslkdmaskdm",
+  "_fechaNacimiento": {
+    "$date": "2004-11-25T00:00:00.000Z"
+  },
+  "_animales": [],
+  "_publicaciones": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66355c3b1935bbd8c58ccdab"
+  },
+  "_nombre": "Cristóbal ",
+  "_apellido": "Contreras ",
+  "_correo": "criscontrerastorres.22@gmail.com",
+  "_telefono": "3310394193",
+  "_contraseña": "$2b$10$0G/NpVpSscH0PxnqdcyGnuVG/gqy2.vu7331LJN6QUpRUGFbeSkp.",
+  "_imagen": "aslkdmaskdm",
+  "_fechaNacimiento": {
+    "$date": "2002-06-22T00:00:00.000Z"
+  },
+  "_animales": [],
+  "_publicaciones": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6635a9eef2d1d720c33ad487"
+  },
+  "_nombre": "asdkmaldsmasñdm",
+  "_apellido": "aslmdasmdsamd",
+  "_correo": "asds@dlasd.casas",
+  "_contraseña": "$2b$10$czSZ5qbGqc/YOtdRGtxeJOJripQqAWFV3okByw03DirN5qcLFEmUi",
+  "_imagen": "aslkdmaskdm",
+  "_telefono": "3340085961",
+  "_fechaNacimiento": {
+    "$date": "2004-05-09T00:00:00.000Z"
+  },
+  "_animales": [],
+  "_publicaciones": [],
+  "_role": "USER",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6635af12670be57bf91ceaaf"
+  },
+  "_nombre": "asdkmaldsmasñdm",
+  "_apellido": "aslmdasmdsamd",
+  "_correo": "asds@dlasd.casa",
+  "_contraseña": "$2b$10$GOIrZ.ye.aWDi1Kj85/b4.JSdQMya9FpE5pmpMCnIi8JhjN50WEo.",
+  "_imagen": "aslkdmaskdm",
+
+  "_telefono": "3340085961",
+  "_fechaNacimiento": {
+    "$date": "2004-05-22T00:00:00.000Z"
+  },
+  "_animales": [],
+  "_publicaciones": [],
+  "_role": "USER",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66373b8603526fd221d4ae96"
+  },
+  "_nombre": "Jaime Enrique",
+  "_apellido": "Galindo Villegas",
+  "_correo": "jaimeenriquegalindovillegas@gmail.com",
+  "_contraseña": "$2b$10$mSmtwmDOybmyDRW5XnYaJ.k6NVmeq8agPSXCVR0dL0KL0.HS2REJy",
+  "_imagen": "aslkdmaskdm",
+
+  "_telefono": "3340085961",
+  "_fechaNacimiento": {
+    "$date": "2004-04-30T00:00:00.000Z"
+  },
+  "_animales": [
+    {
+      "_nombre": "test2",
+      "_tipo": "perro",
+      "_imagen": "asmd",
+      "_raza": "Schnauzer",
+      "_sexo": "Macho",
+      "_caracter": "",
+      "_edad": null,
+      "_ubicacion": "Guadalajara",
+      "_pelajeTipo": "otro",
+      "_pelajeColor": "Cafe claro",
+      "_pelajeLargo": "Corto",
+      "_estirilizado": true,
+      "_vacunas": [
+        "leucemia"
+      ],
+      "_paracitos": [],
+      "_enfermedades": "",
+      "_estado": false,
+      "_correoUser": "jaimeenriquegalindovillegas@gmail.com",
+      "_id": {
+        "$oid": "6638260905a5861987d752f7"
+      },
+      "__v": 0
+    }
+  ],
+  "_publicaciones": [],
+  "_role": "USER",
+  "__v": 0
+}]

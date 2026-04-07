@@ -8,7 +8,7 @@ The project is deployed and available at:
 
 | Environment | URL |
 |---|---|
-| Custom Domain | [http://tepetaps.jaimegv.dev/](http://tepetaps.jaimegv.dev/) |
+| Custom Domain | [https://tepetaps.jaimegv.dev/](https://tepetaps.jaimegv.dev/) |
 | Vercel | [https://tepetaps.vercel.app/](https://tepetaps.vercel.app/) |
 
 ---
